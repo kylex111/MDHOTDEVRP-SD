@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Generated raw experiments are retained on disk; commit code/configs and reports.
+/results/

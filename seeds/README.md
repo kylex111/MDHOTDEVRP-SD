@@ -1,0 +1,1 @@
+Seed values are extracted verbatim from copied plans and configurations, with their JSON paths. Duplicates across sources are retained for provenance. This is not a regenerated seed list. Original generation functions remain in src/configuration and the preserved experiment scripts. Plans/configurations remain the authority for mapping tasks to seeds.
